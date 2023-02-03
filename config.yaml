@@ -1,0 +1,5 @@
+api_url: https://api.vk.com
+proxy: http://localhost:8118 # Make None to use without proxies
+params:
+  access_token: your_vk_token
+  v: 5.131

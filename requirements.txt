@@ -1,0 +1,6 @@
+aiofiles
+aiohttp
+loguru
+pydantic
+PyYAML
+transliterate
